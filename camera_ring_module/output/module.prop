@@ -1,0 +1,7 @@
+id=camera_ring_overlay
+name=Camera Ring Overlay
+version=v1.0
+versionCode=100
+author=Assistant
+description=在前置摄像头周围显示白色圆环，适配三星OneUI 7.0
+updateJson=
