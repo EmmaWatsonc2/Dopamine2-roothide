@@ -1,0 +1,47 @@
+# Android/Gradle Build Files
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# APK Files
+*.apk
+*.aab
+
+# Output Directory
+output/
+*.zip
+
+# Log Files
+*.log
+
+# Temporary Files
+*.tmp
+*.temp
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Gradle Wrapper (uncomment if you want to include it)
+# gradle/wrapper/gradle-wrapper.jar
+
+# Local configuration
+local.properties
