@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">摄像头圆环显示</string>
+    <string name="module_description">在前置摄像头周围显示白色圆环，适配三星OneUI 7.0</string>
+</resources>
